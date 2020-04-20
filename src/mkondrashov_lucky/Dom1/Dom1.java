@@ -1,4 +1,4 @@
-package mkondrashov_lucky;
+package mkondrashov_lucky.Dom1;
 
 import java.math.BigInteger;
 import java.util.Scanner;
