@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class C1 {
     public static void main(String[] args){
+        System.out.println(" Ввод : ");
         Scanner k = new Scanner(System.in);
         int a = k.nextInt();
         int b = k.nextInt();
