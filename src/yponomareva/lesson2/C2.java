@@ -2,7 +2,7 @@ package yponomareva.lesson2;
 
 import java.util.Scanner;
 
-public class С2 {
+public class C2 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Ввод: ");
