@@ -1,4 +1,4 @@
-package ktsyvis;
+package ktsyvis.lesson2;
 /*
 Напишите тело main программы, которая выводит на экран 5 строк Я начинаю изучать Java
  */

@@ -1,4 +1,4 @@
-package ktsyvis;
+package ktsyvis.lesson2;
 /* Напишите программу, которая выводит хеллоу ворд
  */
 

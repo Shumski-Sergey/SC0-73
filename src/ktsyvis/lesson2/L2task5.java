@@ -1,4 +1,4 @@
-package ktsyvis;
+package ktsyvis.lesson2;
 /*
 1.Значения переменных а,b,c,d не изменять.
 2. Перед каждой из переменных а,b,c, d
