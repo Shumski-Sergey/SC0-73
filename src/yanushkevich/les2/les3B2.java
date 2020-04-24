@@ -17,7 +17,7 @@ public class les3B2 {
             x2 = (-b + Math.sqrt(D)) / (2 * a);
             System.out.println(" Вывод :" + "\n" + x1 + " " + x2);
         } else if (D == 0) {
-            double x = (-b >> 1) * a;
+            double x = - b / 2.0 * a;
             System.out.println(" Вывод :" + "\n" + x);
         } else if (D < 0) {
             System.out.println("Отрицательный дискриминант");
