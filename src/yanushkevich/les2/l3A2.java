@@ -1,6 +1,6 @@
 package yanushkevich.les2;
 
-public class les3A2 {
+public class l3A2 {
     public static void main(String[] args){
         String a = "Не смею вам стихи Баркова";
         String b = "Благопристойно перевесть,";

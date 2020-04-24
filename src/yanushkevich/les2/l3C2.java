@@ -1,6 +1,6 @@
 package yanushkevich.les2;
 
-public class les3C2 {
+public class l3C2 {
     public static void main(String[] args){
         System.out.println(sumDigitsInNumber(5467));
     }
@@ -12,8 +12,5 @@ public class les3C2 {
         int sum = a + b + c + d ;
         System.out.println(sum);
         return s;
-
-
-
     }
 }

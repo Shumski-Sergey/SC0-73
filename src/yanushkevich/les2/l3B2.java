@@ -2,7 +2,7 @@ package yanushkevich.les2;
 
 import java.util.Scanner;
 
-public class les3B2 {
+public class l3B2 {
     public static void main(String[] args) {
         System.out.println(" Ввод : ");
         Scanner k = new Scanner(System.in);
