@@ -17,9 +17,9 @@ public class TaskC1 {
                     System.out.println("Ваша зарплата в этом месяце составила: $" + ilike$ * 1.5);
                 } else {
                     switch (month) {
-                        case 6 -> System.out.println("Ваша зарплата в этом месяце составила: июнь $" + ilike$);
-                        case 7 -> System.out.println("Ваша зарплата в этом месяце составила: июль $" + ilike$);
-                        case 8 -> System.out.println("Ваша зарплата в этом месяце составила: август $" + ilike$);
+//                        case 6 -> System.out.println("Ваша зарплата в этом месяце составила: июнь $" + ilike$);
+//                        case 7 -> System.out.println("Ваша зарплата в этом месяце составила: июль $" + ilike$);
+//                        case 8 -> System.out.println("Ваша зарплата в этом месяце составила: август $" + ilike$);
                     }
                 }
             }
