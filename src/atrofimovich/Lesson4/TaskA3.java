@@ -1,6 +1,7 @@
 package atrofimovich.Lesson4;
 
 import java.util.Scanner;
+
 public class TaskA3 {
     public static void main(String[] args) {
         System.out.println("Введите три целых числа для сравнения!");
@@ -12,19 +13,15 @@ public class TaskA3 {
         b = sc.nextInt();
         System.out.println("Введите третье число:");
         c = sc.nextInt();
-        if(a==b && b==c){
+        if (a == b && b == c) {
             System.out.println(a + " " + b + " " + c);
-            }
-        else if(a==b){
+        } else if (a == b) {
             System.out.println(a + " " + b);
-        }
-        else if(b==c){
+        } else if (b == c) {
             System.out.println(b + " " + c);
-        }
-        else if(a==c){
+        } else if (a == c) {
             System.out.println(a + " " + c);
-        }
-        else{
+        } else {
             System.out.println("Среди введённых чисел равных нет!");
         }
     }
