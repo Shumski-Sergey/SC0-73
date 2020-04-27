@@ -14,7 +14,7 @@ public class B3 {
                 }
                 a++;
                 b=1;
-                System.out.println("      ");
+                System.out.println(" ");
             }
         }
 }
