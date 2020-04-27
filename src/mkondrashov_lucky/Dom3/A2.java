@@ -8,14 +8,14 @@ public class A2 {
         Scanner sc = new Scanner(System.in);
         byte i = sc.nextByte();
         switch (i) {
-//            case 1 -> System.out.println("Это понедельник");
-//            case 2 -> System.out.println("Это вторник");
-//            case 3 -> System.out.println("Это среда");
-//            case 4 -> System.out.println("Это четверг");
-//            case 5 -> System.out.println("Это пятница");
-//            case 6 -> System.out.println("Это суббота");
-//            case 7 -> System.out.println("Это воскресенье");
-//            default -> System.out.println("Неверный день недели");
+            case 1: System.out.println("Это понедельник"); break;
+            case 2: System.out.println("Это вторник"); break;
+            case 3: System.out.println("Это среда"); break;
+            case 4: System.out.println("Это четверг"); break;
+            case 5: System.out.println("Это пятница"); break;
+            case 6: System.out.println("Это суббота"); break;
+            case 7: System.out.println("Это воскресенье"); break;
+            default: System.out.println("Неверный день недели");
         }
     }
 }
