@@ -18,7 +18,6 @@ public class B1 {
         for (String x: strings) {
             System.out.println(x);
         }
-        strings.size();
         System.out.print("Размер вашей коллекции: ".concat(String.valueOf(strings.size())));
     }
 }
